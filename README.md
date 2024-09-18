@@ -6,7 +6,7 @@
   <strong>Currently, I'm deepening my expertise in AI and ML, with a particular focus on NLP and Neural Networks. I'm eager to apply these advanced technologies to real-world projects that create meaningful impact.</strong>
 </p>
 
-### 📫 Follow my Work:
+### 📫 Follow my Work
 - [Tableau Public](https://public.tableau.com/app/profile/iuliia.rytck/vizzes)
 - [Medium](https://medium.com/@Rytck)
 
