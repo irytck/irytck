@@ -1,6 +1,6 @@
 <h1 align="center">🌍 <strong>Hello, I'm Iuliia</strong></h1>
 <p align="center">
-  <strong>As a Data Scientist with a solid background in Social Sciences, I now focus on Machine Learning, AI, and Data Visualization. I am passionate about transforming complex data into actionable insights that drive smarter decisions for businesses and organizations.</strong>
+  <strong>As a Data Analyst with a solid background in Social Sciences, I now focus on Machine Learning, AI, and Data Visualization. I am passionate about transforming complex data into actionable insights that drive smarter decisions for businesses and organizations.</strong>
 </p>
 <p align="center">
   <strong>Currently, I'm deepening my expertise in AI and ML, with a particular focus on NLP and Neural Networks. I'm eager to apply these advanced technologies to real-world projects that create meaningful impact.</strong>
