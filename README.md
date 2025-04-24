@@ -1,6 +1,6 @@
 <h1 align="center">🌍 <strong>Hey there, I'm Iuliia</strong></h1>
 <p align="center">
-  <strong>I’m a Data Scientist with a background in Political Sciences, now focusing on Machine Learning, AI, and Data Visualization. I’m passionate about turning complex data into insights that drive smarter decisions. Currently, I'm sharpening my AI and ML skills and excited to apply them to real-world projects with real impact.</strong>
+  <strong>I’m a Data Analyst with a background in Political Sciences, now focusing on Machine Learning, AI, and Data Visualization. I’m passionate about turning complex data into insights that drive smarter decisions. Currently, I'm sharpening my AI and ML skills and excited to apply them to real-world projects with real impact.</strong>
 </p>
 
 ### 📫 Follow my Work
